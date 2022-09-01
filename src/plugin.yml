@@ -1,0 +1,7 @@
+name: Drop
+main: pl.vatrykpega.drop.Main
+version: 1.0
+author: Vatryk Pega
+
+commands:
+  drop:
